@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mohammedannaldy@gmail.com**
 
-- ⚡ Fun fact **I aspire to make a significant impact in the field of Full Stack Development by creating integrated software solutions that meet user needs and leveraging the latest technologies to build innovative and scalable projects.**
+- ⚡ I aspire to make a significant impact in the field of Full Stack Development by creating integrated software solutions that meet user needs and leveraging the latest technologies to build innovative and scalable projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
