@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Elnady <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">A passionate Back-end Developer</h3>
 
 
 - 🔭 I’m currently working on [Criativo](https://creativo-ten.vercel.app/)
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mohammedannaldy@gmail.com**
 
-- ⚡ I aspire to make a significant impact in the field of Full Stack Development by creating integrated software solutions that meet user needs and leveraging the latest technologies to build innovative and scalable projects.**
+- ⚡ I aspire to make a significant impact in Backend Development by engineering scalable, high-performance, and secure software solutions using Node.js, Express.js, and MongoDB. I strive to leverage modern technologies to build innovative architectures that optimize efficiency and drive business growth
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
