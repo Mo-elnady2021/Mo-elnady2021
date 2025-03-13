@@ -8,7 +8,7 @@
 
 - 👯 [NETFILX](https://elnady3.vercel.app/)
   
-- 🚀 Task Manager API (https://lnkd.in/dCejr56u)
+- 🚀 Task Manager API
 
 - 📫 How to reach me **mohammedannaldy@gmail.com**
 
