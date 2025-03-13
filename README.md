@@ -2,11 +2,13 @@
 <h3 align="center">A passionate Back-End Developer</h3>
 
 
-- 🔭 I’m currently working on [Criativo](https://creativo-ten.vercel.app/)
+- 🔭 [Criativo](https://creativo-ten.vercel.app/)
 
 - 🌱 I’m currently learning **Creating Compelling Reports (cisco) Networking Basics, introduction to Data Science(cisco), ALX AI AICE and Engaging Stakeholders for Success(cisco)**
 
-- 👯 I’m looking to collaborate on [NETFILX](https://elnady3.vercel.app/)
+- 👯 [NETFILX](https://elnady3.vercel.app/)
+  
+- 🚀 Task Manager API (https://lnkd.in/dCejr56u)
 
 - 📫 How to reach me **mohammedannaldy@gmail.com**
 
