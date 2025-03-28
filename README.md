@@ -4,7 +4,7 @@
 
 - 🔭 [Criativo](https://creativo-ten.vercel.app/)
 
-- 🌱 I’m currently learning **Creating Compelling Reports (cisco) Networking Basics, introduction to Data Science(cisco), ALX AI AICE and Engaging Stakeholders for Success(cisco)**
+- 🌱 I’m currently learning **Back-end Node.js(MAG), Html/Css, JaveScript, Python, C++ ,Networking Basics, introduction to Data Science(cisco), ALX AI AICE , and Engaging Stakeholders for Success(cisco)**
 
 - 👯 [NETFILX](https://elnady3.vercel.app/)
   
