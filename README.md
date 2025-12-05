@@ -11,7 +11,7 @@
 - **Cloud:** AWS --> Linux , IAM, EC2 
 - **Security:** Network & Social Engineering
 - **Tools:** Git, GitHub, Nmap, Gubyster, Stoolkit, Nikto, Wireshark , Metaspolit 
-Ethacel Hacking 
+- Ethacel Hacking 
 ---
 
 ### 📫 Connect with Me
