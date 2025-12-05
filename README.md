@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Annady  
 
-� I'm currently studying **Cloud Architecture** and **Cybersecurity**.  
+� I'm currently studying **Cloud ** and **Cybersecurity**.  
 ☁️ Passionate about **Infrastructure** and **Cloud Technologies**.  
 🚀 Always learning new technologies and improving my technical skills.  
 
@@ -36,18 +36,6 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-
-  <!-- DevOps & Infrastructure -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-
   <!-- Cybersecurity Tools -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/>
