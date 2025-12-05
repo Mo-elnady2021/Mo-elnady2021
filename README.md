@@ -8,10 +8,10 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python  
-- **Cloud:** AWS, Docker, Linux  
-- **Security:** Network & Web Security Fundamentals  
-- **Tools:** Git, GitHub, VS Code  
-
+- **Cloud:** AWS --> Linux , IAM, EC2 
+- **Security:** Network & Social Engineering
+- **Tools:** Git, GitHub, Nmap, Gubyster, Stoolkit, Nikto, Wireshark , Metaspolit 
+Ethacel Hacking 
 ---
 
 ### 📫 Connect with Me
